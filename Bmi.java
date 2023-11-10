@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main{
+public class Bmi{
 public static void main(String[] args) {
 	for(int i=1; i<3; i++){
 	Scanner sc = new Scanner(System.in);
