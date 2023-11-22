@@ -9,7 +9,7 @@ public static void main(String[] args) {
 	double weight = sc.nextDouble();
 	double bmi = 0.0;
 	bmi = weight / (height * height);
-	System.out.printi + "の"+("BMIの値は");
+	System.out.println (i + "の"+("BMIの値は"));
 	System.out.println((Math.floor(bmi * 10))/10);
 	}
 }
